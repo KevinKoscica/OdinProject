@@ -3,7 +3,7 @@ div {
 }
 #container {
 	overflow: auto;
-	width: 960px;
+	width: 975px;
 	margin: auto;
 }
 
@@ -19,5 +19,5 @@ div {
 
 }
 button{
-	
+/*Was going to style the button but felt no need to, feel free to customize it if you want to use my code.*/	
 }
