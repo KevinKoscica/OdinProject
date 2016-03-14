@@ -1,0 +1,23 @@
+div {
+	display: block;
+}
+#container {
+	overflow: auto;
+	width: 960px;
+	margin: auto;
+}
+
+.square {
+	background-color: black;
+	float: left;
+	border: 1px solid white;
+	height:15px;
+	width:15px;
+}
+.row {
+	clear: both;
+
+}
+button{
+	
+}
